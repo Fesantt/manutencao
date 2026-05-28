@@ -1,5 +1,5 @@
 {
-  "active": false,
-  "title": "Aviso",
-  "message": "ESTAMOS PASSANDO POR INSTABILIDADES, O SISTEMA PODE FICAR MAIS LENTO QUE O NORMAL: JA ESTAMOS TRABALHANDO PARA ESTABILIZAR"
+  "active": true,
+  "title": "Novidade",
+  "message": "Usuarios do plano EMTERPRISE agora podem emitir NFS-e (Nota fiscal de serviço diretamente dentro do sistema) sem nenhum custo adicional, em caso de duvidas entre em contato com o suporte."
 }
